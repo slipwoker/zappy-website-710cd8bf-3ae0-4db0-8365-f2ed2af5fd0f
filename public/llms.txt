@@ -1,0 +1,49 @@
+# וילה רוזן — Generative Engine Optimization Map
+
+> A אירוח ונופש business.
+
+---
+
+## Pages
+
+### Home
+https://-710cd8bf.zappy5.app
+וילה רוזן - אירוח ונופש כפרי יוקרתי בתל אביב. 7 חדרי שינה עם חדר רחצה פרטי, בריכה פרטית, טלוויזיה חכמה בכל חדר עם נטפליקס. מיקום מעולה ליד פארק הירקון ומרכז הירידים. אידיאלי לחופשות משפחתיות ואירועים.
+
+### Accessibility
+https://-710cd8bf.zappy5.app/accessibility
+הצהרת נגישות של וילה רוזן - Villa Rozen. מידע מפורט על נגישות האתר והמקום הפיזי, התאמות שבוצעו לציבור בעלי מוגבלויות, תאימות לתקן WCAG 2.1 ופרטי אחראי נגישות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-710cd8bf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-710cd8bf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-710cd8bf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About וילה רוזן
+וילה רוזן is a business in the אירוח ונופש industry.
+
+## Target Audience
+אורחים פוטנציאליים המחפשים אירוח יוקרתי בתל אביב
+
+## Industry
+אירוח ונופש
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-710cd8bf.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-710cd8bf.zappy5.app/robots.txt
